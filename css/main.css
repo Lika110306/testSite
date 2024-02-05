@@ -1,0 +1,29 @@
+h1 {
+	color: deeppink;
+	text-align: center;
+	font-family: 'Merriweather', sans-serif;
+
+}
+
+body{
+	background: pink;
+}
+p{
+	text-align: left;
+	font-family: 'Merriweather', sans-serif;
+	font-size: 20px;
+	letter-spacing: 1px;
+	line-height: 45px;
+}
+p1{
+	font-family: 'Merriweather', sans-serif;
+	font-size: 20px;
+	letter-spacing: 1px;	
+}
+.text{
+	float: left;
+}
+
+.text1{
+	float: right;
+}
