@@ -13,24 +13,28 @@ h2{
 	height: 60px;
 	margin-left: 100px;
 	padding: 2px;
+	box-shadow: 5px 8px 20px black;
 }
 .blok1{
 	width: 60vw;
 	height: 370px;
 	border: 3px solid deeppink;
 	margin-left: 400px;
+	box-shadow: 5px 8px 20px black;
 }
 .blok2{
 	width: 60vw;
 	height: 365px;
 	border: 3px solid deeppink;
 	margin-left: 100px;
+	box-shadow: 5px 8px 20px black;
 }
 .blok3{
 width: 80vw;
 	height: 100px;
 	border: 3px solid deeppink;
 	margin-left: 100px;
+	box-shadow: 5px 8px 20px black;
 }
 
 body{
@@ -57,9 +61,14 @@ p1{
 .text{
 	float: left;
 	margin-left: 100px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 20px deeppink;
 }
 
 .text1{
 	float: right;
 	margin-right: 190px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 20px deeppink;
+}
 }
