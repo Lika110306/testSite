@@ -2,7 +2,6 @@ h1 {
 	color: black;
 	text-align: center;
 	font-family: 'Merriweather', sans-serif;
-
 }
 h2{
 	text-align: center;
@@ -30,7 +29,7 @@ h2{
 	box-shadow: 5px 8px 20px black;
 }
 .blok3{
-width: 80vw;
+	width: 80vw;
 	height: 100px;
 	border: 3px solid deeppink;
 	margin-left: 100px;
@@ -50,8 +49,8 @@ p{
 	text-align: left;
 	font-family: 'Merriweather', sans-serif;
 	font-size: 20px;
-	letter-spacing: 1px;
-	line-height: 45px;
+	letter-spacing: 1px; /*интервал между символами*/
+	line-height: 45px; /*интервал между строками*/
 }
 p1{
 	font-family: 'Merriweather', sans-serif;
@@ -71,4 +70,4 @@ p1{
 	border-radius: 30px;
 	box-shadow: 0px 0px 20px deeppink;
 }
-}
+
